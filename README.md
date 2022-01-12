@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaxMukhtarov
 - 👀 I’m interested in coding and algorithm
 - 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on dotNet
+- 💞️ I’m looking to collaborate on .Net and Ethical Hacking
 - 📫 How to reach me T.me/@Investor001
 
 <!---
