@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MaxMukhtarov
-- 👀 I’m interested in coding and algorithm
-- 🌱 I’m currently learning java and c++
-- 💞️ I’m looking to collaborate on .Net and dart
+- 👀 Python mentor, software developer and entry devops engineer
+- 🌱 I’m currently learning cloud soulution (AWS-DVA02)
 - 📫 How to reach me T.me/@Legion010
 
 <!---
