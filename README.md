@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxMukhtarov
-- 👀 Python mentor, software developer and entry devops engineer
-- 🌱 I’m currently learning cloud soulution (AWS-DVA02)
+- 👀 Python developer, software engineer and entry devops engineer
+- 🌱 I’m currently learning cloud solution
 - 📫 How to reach me T.me/@Legion010
 
 <!---
