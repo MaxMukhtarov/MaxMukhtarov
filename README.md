@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaxMukhtarov
-- 👀 Python developer, software engineer and entry devops engineer
-- 🌱 I’m currently learning cloud solution
+- 👀 Middle devops engineer
+- 🌱 I’m currently learning solution architect
 - 📫 How to reach me T.me/@Legion010
 
 <!---
