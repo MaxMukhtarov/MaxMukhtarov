@@ -13,7 +13,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Engineering+Reliable+Infrastructure;Automating+Everything+That+Can+Be+Automated;Cloud+%7C+Containers+%7C+Orchestration;From+Architecture+to+Production;Infrastructure+as+Code.+Systems+as+Products." alt="Animated engineering tagline" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/MaxMukhtarov?tab=followers">
     <img src="https://img.shields.io/github/followers/MaxMukhtarov?style=for-the-badge&logo=github&label=FOLLOWERS&color=161B22" alt="GitHub followers"/>
@@ -21,9 +21,7 @@
   <a href="https://github.com/MaxMukhtarov?tab=repositories">
     <img src="https://img.shields.io/badge/FOCUS-DEVOPS-00D9FF?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps focus"/>
   </a>
-  <a href="https://github.com/MaxMukhtarov">
-    <img src="https://komarev.com/ghpvc/?username=MaxMukhtarov&style=for-the-badge&color=0B2545&label=PROFILE+VIEWS" alt="Profile views"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=MaxMukhtarov&style=for-the-badge&color=0B2545&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -76,7 +74,7 @@ My approach is simple: **understand the system, automate the process, eliminate 
 
 ### Data & Infrastructure Services
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,prometheus,grafana,elk&theme=dark" alt="PostgreSQL, Redis, Kafka, Prometheus, Grafana, ELK"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,prometheus,grafana,elasticsearch&theme=dark" alt="PostgreSQL, Redis, Kafka, Prometheus, Grafana, Elasticsearch"/>
 
 </div>
 
@@ -99,7 +97,7 @@ Designing infrastructure that is reproducible, observable, secure, and ready to 
 - Configuration management
 - Infrastructure as Code
 
-</td>
+    </td>
     <td width="50%" valign="top">
 
 ### 📦 Container Platforms
@@ -111,7 +109,7 @@ Packaging and running services consistently across development and production.
 - Kubernetes & Helm
 - Service discovery and networking
 
-</td>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
@@ -125,7 +123,7 @@ Building repeatable delivery pipelines and reducing manual operational work.
 - Ansible automation
 - Release and rollback strategies
 
-</td>
+    </td>
     <td width="50%" valign="top">
 
 ### 🐧 Systems & Reliability
@@ -137,7 +135,7 @@ Understanding what's happening beneath the application and keeping systems healt
 - Logs, metrics, and monitoring
 - Troubleshooting and recovery
 
-</td>
+    </td>
   </tr>
 </table>
 
@@ -147,13 +145,19 @@ Understanding what's happening beneath the application and keeping systems healt
 
 <div align="center">
 
-<a href="https://github.com/MaxMukhtarov/dkview">
-  <img src="https://github.com/MaxMukhtarov/dkview/blob/feature/docs/brand/dkview-logo.svg&theme=github_dark&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="DKView project" />
-</a>
+  <a href="https://github.com/MaxMukhtarov/dkview">
+    <img src="https://raw.githubusercontent.com/MaxMukhtarov/dkview/feature/docs/brand/dkview-logo.svg" width="180" alt="DKView project logo"/>
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/MaxMukhtarov/dkview">
+    <img src="https://img.shields.io/badge/EXPLORE-DKVIEW-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore DKView repository"/>
+  </a>
 
 </div>
 
-**Docker & Swarm Operations Toolkit**
+### Docker & Swarm Operations Toolkit
 
 A Python-based operational utility designed to make Docker and Swarm administration more readable and troubleshooting more practical.
 
@@ -164,7 +168,6 @@ A Python-based operational utility designed to make Docker and Swarm administrat
 
 **Engineering objective:** reduce the friction of everyday container operations and make failure diagnosis more straightforward.
 
-
 [Explore the repository →](https://github.com/MaxMukhtarov/dkview)
 
 ### 🚀 More engineering work
@@ -173,9 +176,9 @@ Explore my repositories for infrastructure experiments, automation utilities, de
 
 <div align="center">
 
-<a href="https://github.com/MaxMukhtarov?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
+  <a href="https://github.com/MaxMukhtarov?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+  </a>
 
 </div>
 
@@ -206,7 +209,7 @@ Explore my repositories for infrastructure experiments, automation utilities, de
 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMukhtarov&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
 
-  <br/>
+  <br/><br/>
 
   <img src="https://streak-stats.demolab.com?user=MaxMukhtarov&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
@@ -236,7 +239,10 @@ The goal is to understand the systems behind them — and use that understanding
 <div align="center">
 
   <a href="https://github.com/MaxMukhtarov">
-    <img src="https://img.shields.io/badge/GitHub-MaxMukhtarov-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-MaxMukhtarov-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub — Max Mukhtarov"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mamurbek-mukhtarov-5b070424b/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
 
   <br/><br/>
