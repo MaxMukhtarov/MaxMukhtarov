@@ -21,7 +21,7 @@
   <a href="https://github.com/MaxMukhtarov?tab=repositories">
     <img src="https://img.shields.io/badge/FOCUS-DEVOPS-00D9FF?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps focus"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MaxMukhtarov&style=for-the-badge&color=0B2545&label=PROFILE+VIEWS" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=MaxMukhtarov&label=PROFILE%20VIEWS&color=0B2545&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
