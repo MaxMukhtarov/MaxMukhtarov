@@ -1,23 +1,28 @@
-]
+
 <!-- ========================================================= -->
-<!--              MAX MUKHTAROV | GITHUB PROFILE              -->
+<!--                  MAX MUKHTAROV | PROFILE                 -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B2545,100:00D9FF&text=MAX%20MUKHTAROV&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20INFRASTRUCTURE%20ARCHITECTURE&descAlignY=58&descSize=14&animation=fadeIn" width="100%" alt="Max Mukhtarov — DevOps Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,50:0B2545,100:00D9FF&text=MAX%20MUKHTAROV&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=DEVOPS%20ENGINEER%20%7C%20INFRASTRUCTURE%20ARCHITECT&descAlignY=58&descSize=15&animation=fadeIn" width="100%" alt="Max Mukhtarov — DevOps Engineer" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Infrastructure+as+Code.;Automate+the+complex.+Simplify+the+system.;Cloud+%7C+Containers+%7C+Distributed+Systems.;Design+for+failure.+Engineer+for+reliability." alt="Engineering principles"/>
+  <a href="https://github.com/MaxMukhtarov">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Engineering+Reliable+Infrastructure;Automating+Everything+That+Can+Be+Automated;Cloud+%7C+Containers+%7C+Orchestration;From+Architecture+to+Production;Infrastructure+as+Code.+Systems+as+Products." alt="Animated engineering tagline" />
+  </a>
 
   <br/>
 
   <a href="https://github.com/MaxMukhtarov?tab=followers">
-    <img src="https://img.shields.io/github/followers/MaxMukhtarov?style=flat-square&color=00D9FF&label=Followers&labelColor=0D1117" alt="GitHub followers"/>
+    <img src="https://img.shields.io/github/followers/MaxMukhtarov?style=for-the-badge&logo=github&label=FOLLOWERS&color=161B22" alt="GitHub followers"/>
   </a>
   <a href="https://github.com/MaxMukhtarov?tab=repositories">
-    <img src="https://img.shields.io/badge/Focus-DevOps%20%26%20Architecture-00D9FF?style=flat-square&labelColor=0D1117" alt="DevOps and architecture"/>
+    <img src="https://img.shields.io/badge/FOCUS-DEVOPS-00D9FF?style=for-the-badge&logo=linux&logoColor=white" alt="DevOps focus"/>
+  </a>
+  <a href="https://github.com/MaxMukhtarov">
+    <img src="https://komarev.com/ghpvc/?username=MaxMukhtarov&style=for-the-badge&color=0B2545&label=PROFILE+VIEWS" alt="Profile views"/>
   </a>
 
 </div>
@@ -26,59 +31,127 @@
 
 ## `whoami`
 
-I'm a **DevOps Engineer** focused on infrastructure architecture, cloud platforms, containerization, orchestration, and automation.
+```bash
+$ whoami
+max-mukhtarov
 
-I work across the infrastructure lifecycle — from Linux systems and distributed services to deployment pipelines, operational tooling, and production troubleshooting.
+$ cat /etc/engineer.conf
+ROLE="DevOps Engineer"
+MINDSET="Architecture first. Automation always."
+FOCUS="Cloud, Linux, Containers, Orchestration"
+LANGUAGES="Python, Bash"
+MISSION="Build systems that are reliable, scalable, and repeatable."
+```
 
-My engineering philosophy:
+I'm a DevOps engineer focused on the architecture, automation, and operation of modern infrastructure.
 
-> Understand the system. Automate the process. Design for failure. Make reliability repeatable.
+I enjoy understanding how systems fit together — from Linux internals and networking to container platforms, deployment pipelines, distributed services, and production reliability.
 
-- **Architecture:** Designing maintainable infrastructure and service environments.
-- **Cloud:** AWS infrastructure, cloud services, and resource management.
-- **Containers:** Docker, container networking, and workload management.
-- **Orchestration:** Docker Swarm, Kubernetes, and Helm.
-- **Automation:** Python, Bash, Ansible, and CI/CD pipelines.
-- **Distributed systems:** Apache Kafka, messaging, and service communication.
-- **Operations:** Linux administration, monitoring, troubleshooting, and recovery.
+My approach is simple: **understand the system, automate the process, eliminate unnecessary complexity, and design for failure.**
 
----
+- **Infrastructure & Architecture** — designing maintainable systems and deployment environments.
+- **Cloud-Native Engineering** — containers, orchestration, service discovery, and scalable workloads.
+- **Automation & IaC** — turning repetitive operational tasks into reproducible workflows.
+- **Linux & Systems Engineering** — administration, troubleshooting, networking, and performance.
+- **Scripting & Tooling** — Python and Bash for practical engineering solutions.
+- **Production Mindset** — observability, security, resilience, and controlled deployments.
 
-## `engineering_stack`
+<br/>
+
+## `engineering.stack`
 
 <div align="center">
 
-  <strong>Cloud & Infrastructure</strong>
+### Infrastructure & Operating Systems
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,bash,python&theme=dark" alt="Linux, Ubuntu, Debian, Bash, Python"/>
 
-  <img src="https://skillicons.dev/icons?i=aws,linux,bash,python,terraform,ansible&theme=dark" alt="AWS, Linux, Bash, Python, Terraform, Ansible"/>
+### Containers & Orchestration
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,nginx,aws&theme=dark" alt="Docker, Kubernetes, Ansible, Terraform, Nginx, AWS"/>
 
-  <strong>Containers & Orchestration</strong>
+### CI/CD & Developer Tooling
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,vim&theme=dark" alt="Git, GitHub, GitLab, VS Code, Vim"/>
 
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,git,github,gitlab&theme=dark" alt="Docker, Kubernetes, Nginx, Git, GitHub, GitLab"/>
+### Data & Infrastructure Services
 
-  <br/><br/>
-
-  <strong>Data, Messaging & Observability</strong>
-
-  <br/><br/>
-
-  <img src="https://skillicons.dev/icons?i=kafka,postgres,redis,prometheus,grafana&theme=dark" alt="Kafka, PostgreSQL, Redis, Prometheus, Grafana"/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,kafka,prometheus,grafana,elk&theme=dark" alt="PostgreSQL, Redis, Kafka, Prometheus, Grafana, ELK"/>
 
 </div>
 
-**Additional tools:** Helm · Docker Swarm · RabbitMQ · HashiCorp Vault · GitLab CI/CD
+> Technology icons represent my areas of focus and the ecosystem I work with; they are not a claim of equal production experience with every tool.
 
----
+<br/>
+
+## `what_i_build`
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### ☁️ Infrastructure Architecture
+
+Designing infrastructure that is reproducible, observable, secure, and ready to evolve.
+
+- Environment design
+- Network and service architecture
+- Configuration management
+- Infrastructure as Code
+
+</td>
+    <td width="50%" valign="top">
+
+### 📦 Container Platforms
+
+Packaging and running services consistently across development and production.
+
+- Docker & image optimization
+- Docker Compose & Swarm
+- Kubernetes & Helm
+- Service discovery and networking
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### ⚙️ Automation & Delivery
+
+Building repeatable delivery pipelines and reducing manual operational work.
+
+- CI/CD pipelines
+- Git-based workflows
+- Ansible automation
+- Release and rollback strategies
+
+</td>
+    <td width="50%" valign="top">
+
+### 🐧 Systems & Reliability
+
+Understanding what's happening beneath the application and keeping systems healthy.
+
+- Linux administration
+- Bash & Python tooling
+- Logs, metrics, and monitoring
+- Troubleshooting and recovery
+
+</td>
+  </tr>
+</table>
+
+<br/>
 
 ## `featured_projects`
 
-### 01 / [`dkview`](https://github.com/MaxMukhtarov/dkview)
+<div align="center">
+
+<a href="https://github.com/MaxMukhtarov/dkview">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxMukhtarov&repo=server-stats.sh&theme=github_dark&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="server-stats.sh project card" />
+</a>
+
+</div>
 
 **Docker & Swarm Operations Toolkit**
 
@@ -91,101 +164,91 @@ A Python-based operational utility designed to make Docker and Swarm administrat
 
 **Engineering objective:** reduce the friction of everyday container operations and make failure diagnosis more straightforward.
 
-[Explore `dkview` →](https://github.com/MaxMukhtarov/dkview)
 
----
+[Explore the repository →](https://github.com/MaxMukhtarov/dkview)
 
-### 02 / [`server-stats.sh`](https://github.com/MaxMukhtarov/server-stats.sh)
+### 🚀 More engineering work
 
-**Linux Monitoring & Systems Toolkit**
+Explore my repositories for infrastructure experiments, automation utilities, deployment workflows, and practical DevOps projects.
 
-A Bash utility for inspecting Linux server health and exposing resource metrics through a portable command-line interface.
+<div align="center">
 
-- CPU, memory, and disk utilization.
-- Top resource-consuming processes.
-- Command-line options and machine-readable JSON output.
-- Threshold-based exit codes for scripts and monitoring integrations.
+<a href="https://github.com/MaxMukhtarov?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-ALL%20REPOSITORIES-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-**Engineering objective:** turn routine system checks into reproducible, automation-friendly operations.
+</div>
 
-[Explore `server-stats.sh` →](https://github.com/MaxMukhtarov/server-stats.sh)
-
----
-
-### 03 / Infrastructure & Platform Engineering
-
-My broader engineering work focuses on containerized applications, deployment workflows, distributed services, and infrastructure automation.
-
-Areas of interest include:
-
-- Reproducible infrastructure provisioning.
-- CI/CD pipelines and controlled deployments.
-- Kafka-based distributed messaging.
-- Container orchestration and service discovery.
-- Linux automation and operational tooling.
-- Monitoring, secrets management, and reliability engineering.
-
-[Explore all repositories →](https://github.com/MaxMukhtarov?tab=repositories)
-
----
+<br/>
 
 ## `engineering_principles`
 
-| Principle | How I apply it |
-|:--|:--|
-| **Reproducibility** | Build repeatable infrastructure and deployment processes. |
-| **Automation** | Eliminate unnecessary manual operational work. |
-| **Observability** | Use meaningful logs, metrics, and system signals. |
-| **Resilience** | Plan for failures, recovery, and controlled rollbacks. |
-| **Security** | Apply least privilege and protect credentials and secrets. |
-| **Simplicity** | Prefer maintainable solutions over unnecessary complexity. |
+<div align="center">
 
----
+| Principle | Implementation |
+|:---|:---|
+| **Reproducibility** | Infrastructure and deployments should be repeatable. |
+| **Automation** | Eliminate avoidable manual operations. |
+| **Observability** | Make system behavior measurable and understandable. |
+| **Resilience** | Expect failures and design recovery paths. |
+| **Security** | Apply least privilege and protect secrets. |
+| **Simplicity** | Prefer clear, maintainable architectures over unnecessary complexity. |
 
-## `currently_focused_on`
+</div>
 
-```text
-01  Cloud infrastructure and architectural decisions
-02  Container orchestration and deployment strategies
-03  Kafka and distributed-system operations
-04  Linux engineering and Python/Bash automation
-05  CI/CD, observability, and production reliability
-```
-
-I value understanding *why* an architecture works, what happens when it fails, and how to operate it reliably — not simply knowing which commands to execute.
-
----
+<br/>
 
 ## `github_analytics`
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaxMukhtarov&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MaxMukhtarov&show_icons=true&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMukhtarov&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=6" alt="Most-used languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMukhtarov&layout=compact&hide_border=true&bg_color=050816&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages"/>
+
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=MaxMukhtarov&theme=transparent&hide_border=true&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
----
+<br/>
+
+## `currently_evolving`
+
+```text
+[+] Production-grade infrastructure architecture
+[+] Container orchestration and deployment strategies
+[+] Infrastructure automation and configuration management
+[+] Linux engineering and operational tooling
+[+] Python and Bash for systems automation
+[+] Observability, reliability, and security practices
+```
+
+The goal is not to collect tools.
+
+The goal is to understand the systems behind them — and use that understanding to build better infrastructure.
+
+<br/>
 
 ## `connect`
-
-I'm interested in meaningful conversations about DevOps, cloud infrastructure, architectural decisions, distributed systems, and automation.
 
 <div align="center">
 
   <a href="https://github.com/MaxMukhtarov">
     <img src="https://img.shields.io/badge/GitHub-MaxMukhtarov-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/mamurbek-mukhtarov-5b070424b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/Legion010">
-    <img src="https://img.shields.io/badge/Telegram-@Legion010-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
 
   <br/><br/>
 
+  **Interested in infrastructure architecture, DevOps engineering, automation, and cloud-native systems.**
+
+  <br/>
+
   <sub>Build deliberately. Automate relentlessly. Operate reliably.</sub>
+
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00D9FF,100:050816" width="100%" alt="Decorative footer"/>
 
 </div>
