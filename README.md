@@ -148,7 +148,7 @@ Understanding what's happening beneath the application and keeping systems healt
 <div align="center">
 
 <a href="https://github.com/MaxMukhtarov/dkview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaxMukhtarov&repo=server-stats.sh&theme=github_dark&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="server-stats.sh project card" />
+  <img src="https://github.com/MaxMukhtarov/dkview/blob/feature/docs/brand/dkview-logo.svg&theme=github_dark&hide_border=true&bg_color=050816&title_color=00D9FF&icon_color=00D9FF" alt="DKView project" />
 </a>
 
 </div>
